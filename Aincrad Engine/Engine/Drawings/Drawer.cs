@@ -8,7 +8,7 @@ namespace Aincrad_Engine.Drawings
 {
     class Drawer
     {
-        static void Draw(int somethingKappa)
+        static void Draw(int somethingKappaTwo)
         {
 
         }
