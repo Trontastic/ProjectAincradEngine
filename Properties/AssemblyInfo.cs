@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Aincrad Engine")]
+[assembly: AssemblyTitle("ProjectAincradEngine")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Aincrad Engine")]
+[assembly: AssemblyProduct("ProjectAincradEngine")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("68c33fcf-5683-4003-b304-debfa3326fc2")]
+[assembly: Guid("265aaddd-80fe-437b-addc-2289e15d08ca")]
 
 // Version information for an assembly consists of the following four values:
 //

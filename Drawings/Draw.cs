@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Aincrad_Engine.Drawings
+namespace Engine.Drawings
 {
-    class Drawer
+    class Draw
     {
-        static void Draw(int somethingKappaTwoThree)
+        public static string DrawSomething(int kapparino)
         {
-
+            return null;
         }
     }
 }
