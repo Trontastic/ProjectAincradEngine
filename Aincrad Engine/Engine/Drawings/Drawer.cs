@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Engine.Drawings
+namespace Aincrad_Engine.Drawings
 {
-    public class Drawer
+    class Drawer
     {
-        public void Draw(int something)
+        static void Draw(int somethingKappa)
         {
 
         }
